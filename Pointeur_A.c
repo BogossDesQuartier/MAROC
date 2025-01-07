@@ -9,5 +9,5 @@ int main(){
     scanf("%d",&a);
     printf("Avant modification : %d\n",a);
     ajouter(&a);
-    printf("Après modification : %d\n",a);
+    printf("Après modif : %d\n",a);
 }
