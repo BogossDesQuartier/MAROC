@@ -18,4 +18,5 @@ int main() {
     pointeur12(&p8);
     printf(" Valeur : %d\n", val);
     printf(" Modification tp GITHUB");
+    printf("Nouvelle modiff");
 }
